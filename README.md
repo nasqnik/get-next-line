@@ -1,4 +1,4 @@
-# get_next_line
+# get_next_line - 42 Project
 
 Create a function capable of reading and returning a single line from a file descriptor, including the newline character, without knowing its size beforehand.
 
